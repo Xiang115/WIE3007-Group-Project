@@ -7,3 +7,4 @@ seaborn
 jupyter
 ipykernel>=6
 llama-cpp-python==0.3.36
+xgboost>=2.1
